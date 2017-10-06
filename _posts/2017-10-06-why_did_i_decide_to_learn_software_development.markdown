@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "Why did I decide to learn software development?"
-date:       2017-10-06 17:38:29 +0000
+date:       2017-10-06 13:38:30 -0400
 permalink:  why_did_i_decide_to_learn_software_development
 ---
 
 
-Since 2014, I have worked for an international student agency as a data analyst, and at the same time, have majored in computer information systems at college. After graduation, however, I felt like somthing is still missing in me. I wanted to make a website so that I could efficiently get and analyze right information required to be successful in a specific purpose. 
+Since 2014, I have worked for an international student agency as a data analyst, and at the same time, have majored in computer information systems at college. After graduation, however, I felt like somthing is still missing in me. I wanted to make a tool or software so that I could efficiently get and analyze right information required to be successful in a specific purpose. 
 
 I needed actions. I have finally decided that I am going to learn software development. Unfortunately, I had no idea where to begin. As you know there are a lot of programming languages now. What programing language should I learn? Should I learn web designing too? I am not sure if I will be able to make the decision on my own. I thought I don't have enough money, so I probably don't have many options.
 
